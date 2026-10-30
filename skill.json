@@ -1,0 +1,10 @@
+{
+  "name": "genpark-magic-ui",
+  "version": "1.0.0",
+  "description": "GenPark Magic UI - Flexbox/grid constraint layout solver, OKLCH design token palette generator, and fluid typography Golden Ratio calculator with zero dependencies.",
+  "tools": [
+    "solve_flex_layout",
+    "generate_design_tokens_palette",
+    "compute_fluid_modular_scale"
+  ]
+}
